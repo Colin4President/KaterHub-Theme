@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[(https://i.natgeofe.com/n/4cd692ae-b7ed-4931-991e-632a5abc99a1/4221428_4x3.jpg)](url) and ![Image](src)
+(https://i.natgeofe.com/n/4cd692ae-b7ed-4931-991e-632a5abc99a1/4221428_4x3.jpg)(url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
