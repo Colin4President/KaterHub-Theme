@@ -1,0 +1,24 @@
+/**
+ * @name Kater Hub - Therminal Theme
+ * @author 𝕶𝖆𝖙𝖊𝖗#1580
+ * @donate https://www.roblox.com/catalog/6825518752/YEET
+ * @version 1.0.2
+ * @source https://katergaming.github.io/Fallout4TerminalTheme/
+ * @invite https://discord.gg/cQnp4MMYUn
+ * @description Katers favorite theme made by Bates#7075
+ * @authorId 744226406111772796
+*/
+
+@import url('https://katergaming.github.io/Fallout4TerminalTheme/css/main.css');
+
+/* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
+
+/* REMOVE THIS LINE TO UNCOMMENT
+
+:root {
+  --background: #000700 !important;
+  --text-color: #4AEF98 !important;
+  --highlight: var(--text-color) !important;
+}
+
+   REMOVE THIS LINE TO UNCOMMENT ASWELL */
