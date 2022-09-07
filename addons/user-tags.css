@@ -67,7 +67,7 @@
 .avatar-2e8lTP[src*="135824276535115776"] + h2::after,
 .avatar-2e8lTP[src*="443765978132643850"] + h2::after,
 .avatar-2e8lTP[src*="96563253466898432"] + h2::after,
-.avatar-2e8lTP[src*="267803219080642560"] + h2::after,
+.avatar-2e8lTP[src*="744226406111772796"] + h2::after,
 .avatar-2e8lTP[src*="194830015353847817"] + h2::after,
 .avatar-2e8lTP[src*="460174770957189155"] + h2::after,
 .avatar-2e8lTP[src*="773960830034378763"] + h2::after{
@@ -86,8 +86,8 @@
   --main-color: #008080;
 }
 
-.avatar-2e8lTP[src*="267803219080642560"]:hover + h2::after {
-  content: "CEO of Red";
+.avatar-2e8lTP[src*="744226406111772796"]:hover + h2::after {
+  content: "CEO of Kater Hub";
   --main-color: #cc2c24;
 }
 
