@@ -3,7 +3,7 @@
 [data-user-id="947868747576778822"] .nameAndDecorators-3ERwy2::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://m.media-amazon.com/images/I/81i3169lqjL.__AC_SY300_SX300_QL70_ML2_.jpg");
+  -webkit-mask-image: url("https://colin4president.github.io/KaterHub-Theme/public/svg/owner-tag.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
@@ -16,7 +16,7 @@
 [data-user-id="947868747576778822"] .headerTagDiscriminatorNoNickname-dfcvHa::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://m.media-amazon.com/images/I/81i3169lqjL.__AC_SY300_SX300_QL70_ML2_.jpg");
+  -webkit-mask-image: url("https://colin4president.github.io/KaterHub-Theme/public/svg/owner-tag.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
